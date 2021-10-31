@@ -8,3 +8,9 @@
 - In order to confrim the order the user must need to sign up using Google
 - In the "Contact us" section the users can send message regarding thier quiries
 
+
+
+LIVE LINK : https://nifty-mcnulty-989f95.netlify.app 
+
+SERVER SITE CODE : https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-promi7892
+
