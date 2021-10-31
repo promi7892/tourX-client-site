@@ -1,0 +1,19 @@
+.logo {
+	width: 150px;
+	height: 60px;
+}
+.navigation {
+	text-decoration: none;
+	color: #fff;
+	font-size: 1.1rem;
+	transition: 0.2s ease-in-out;
+	overflow: hidden;
+}
+.navigation:hover {
+	color: slategray;
+	transform: scale(1.1);
+	font-weight: 500;
+}
+.logout {
+	background: rgb(80, 80, 80);
+}

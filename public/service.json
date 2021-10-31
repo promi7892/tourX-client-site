@@ -1,0 +1,62 @@
+[
+	{
+		" key": 1,
+		"name": "Maldives",
+		"img": "https://images.pexels.com/photos/3155666/pexels-photo-3155666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"price": "$180/person",
+		"days": "5 days/6 Nights",
+		"packageType": "Premium Holiday",
+		"detail": "Holidays and honeymoons to gorgeous beaches and islands around the world. ",
+		"description": "Male is the best island in Maldives for honeymoon for all those luxury-seeker couples. It is on this island that the major international airport of Maldives is located and you should ideally visit this island at the very beginning or the end of your honeymoon in Maldives. Though it is often dismissed as a destination with little sightseeing options, it must not be missed. For it is here that you experience the true Maldivian culture and it is the best island to stay in Maldives for honeymoon. "
+	},
+	{
+		" key": 2,
+		"name": "Madrid",
+		"img": "https://images.pexels.com/photos/3757144/pexels-photo-3757144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"price": "$1300/person",
+		"days": "5 days/6 Nights",
+		"packageType": "Relaxing Vacation",
+		"detail": "Escorted tours around the world, sightseeing, walking, river cruises, natural history or cultural.",
+		"description": "Male is the best island in Maldives for honeymoon for all those luxury-seeker couples. It is on this island that the major international airport of Maldives is located and you should ideally visit this island at the very beginning or the end of your honeymoon in Maldives. Though it is often dismissed as a destination with little sightseeing options, it must not be missed. For it is here that you experience the true Maldivian culture and it is the best island to stay in Maldives for honeymoon. "
+	},
+	{
+		" key": 3,
+		"name": "Slovenia",
+		"img": "https://images.pexels.com/photos/3214968/pexels-photo-3214968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"price": "$2180/person",
+		"days": "5 days/6 Nights",
+		"packageType": "Cozy Break",
+		"detail": "Early years of exploration,Whatever you want to do, we can find a way for you to do it !",
+		"description": "Male is the best island in Maldives for honeymoon for all those luxury-seeker couples. It is on this island that the major international airport of Maldives is located and you should ideally visit this island at the very beginning or the end of your honeymoon in Maldives. Though it is often dismissed as a destination with little sightseeing options, it must not be missed. For it is here that you experience the true Maldivian culture and it is the best island to stay in Maldives for honeymoon. "
+	},
+	{
+		" key": 4,
+		"name": "Switzerland",
+		"img": "https://images.pexels.com/photos/4210037/pexels-photo-4210037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"price": "$780/person",
+		"days": "5 days/6 Nights",
+		"packageType": "Exclusive Holiday",
+		"detail": "Make the most of being so close to Europe! There are fabulous cities just a short hop away from us, full of history, culture and sight seeing",
+		"description": "Male is the best island in Maldives for honeymoon for all those luxury-seeker couples. It is on this island that the major international airport of Maldives is located and you should ideally visit this island at the very beginning or the end of your honeymoon in Maldives. Though it is often dismissed as a destination with little sightseeing options, it must not be missed. For it is here that you experience the true Maldivian culture and it is the best island to stay in Maldives for honeymoon. "
+	},
+	{
+		" key": 5,
+		"name": "Kuala Lumpur, Malaysia",
+		"img": "https://images.pexels.com/photos/94420/pexels-photo-94420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"price": "$180/person",
+		"days": "5 days/6 Nights",
+		"packageType": "Budget Friendly",
+		"detail": "Unusual places to sleep and stay! Treehouses, houseboats, yurts, tee-pees, glamping, ice hotels, igloos, sleep under the stars ",
+		"description": "Male is the best island in Maldives for honeymoon for all those luxury-seeker couples. It is on this island that the major international airport of Maldives is located and you should ideally visit this island at the very beginning or the end of your honeymoon in Maldives. Though it is often dismissed as a destination with little sightseeing options, it must not be missed. For it is here that you experience the true Maldivian culture and it is the best island to stay in Maldives for honeymoon. "
+	},
+	{
+		" key": 6,
+		"name": "Santorini, Greece",
+		"img": "https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		"price": "$1180/person",
+		"days": "5 days/6 Nights",
+		"packageType": "Elite Vacation",
+		"detail": "Luxury holidays around the world to your own private home or island. A range of houses, villas and tropical islands for special holidays.",
+		"description": "Male is the best island in Maldives for honeymoon for all those luxury-seeker couples. It is on this island that the major international airport of Maldives is located and you should ideally visit this island at the very beginning or the end of your honeymoon in Maldives. Though it is often dismissed as a destination with little sightseeing options, it must not be missed. For it is here that you experience the true Maldivian culture and it is the best island to stay in Maldives for honeymoon. "
+	}
+]
